@@ -1,2 +1,2 @@
-FROM hshar/webapp
+FROM airbyte/webapp
 ADD . /www/server/nginx/html
