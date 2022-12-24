@@ -1,2 +1,2 @@
-FROM hshar/hshar/webapp
+FROM hshar/webapp
 ADD . /www/server/nginx/html
